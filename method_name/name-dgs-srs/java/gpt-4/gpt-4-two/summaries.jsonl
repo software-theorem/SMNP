@@ -1,0 +1,200 @@
+{"idx": 0, "prompt1_answer": "```java\n// Retrieves the value of the \"r:id\" attribute from the provided NamedNodeMap, or returns null if not found.\n```"}
+{"idx": 1, "prompt1_answer": "// Unlocks a resource identified by the provided LockToken using a DAV client and handles potential exceptions."}
+{"idx": 2, "prompt1_answer": "```java\n// Creates and returns a Variable object with the given name, indicating if it is anonymous based on its naming convention.\n```"}
+{"idx": 3, "prompt1_answer": "```java\n// Executes the request with the provided input parameters and progress listener, using the current context.\n```"}
+{"idx": 4, "prompt1_answer": "```java\n// Copies boolean values from array 'a' to 'result' if they are conformable, otherwise throws an IllegalArgumentException.\n```"}
+{"idx": 5, "prompt1_answer": "```java\n// Ensures the contentId is set based on the provided name or defaults to NO_NAME if neither is available.\n```"}
+{"idx": 6, "prompt1_answer": "// This function searches for a constructor descriptor that matches the given parameter types and returns it if found, otherwise returns null."}
+{"idx": 7, "prompt1_answer": "```java\n// This function retrieves the connection class and direction based on the specified edge label and class names, considering vertex settings for edge labels.\n```"}
+{"idx": 8, "prompt1_answer": "```java\n// Handles the serialization of different Avro types into a record consumer based on the provided Avro schema and value.\n```"}
+{"idx": 9, "prompt1_answer": "```java\n// Returns an InputStream for the specified file, or null if the file does not exist.\n```"}
+{"idx": 10, "prompt1_answer": "// Generates a WavHeader object for a given audio format and number of samples."}
+{"idx": 11, "prompt1_answer": "// Calculates the total length of all validated DirectBufferVector elements, throwing an exception if an overflow occurs."}
+{"idx": 12, "prompt1_answer": "```java\n// Retrieves the list of Gastgewerbe, initializing it if it's null.\n```"}
+{"idx": 13, "prompt1_answer": "```java\n// This method creates and populates an ArrayStructureMA from a given Structure and its desired shape, supporting various data types and nested structures.\n```"}
+{"idx": 14, "prompt1_answer": "// Updates the internal buffer with the length of the label and copies the corresponding bytes from the provided DirectBuffer."}
+{"idx": 15, "prompt1_answer": "```java\n// This function processes a DDS command based on the provided CE parameter and returns the resulting DDS object.\n```"}
+{"idx": 16, "prompt1_answer": "```java\n// Checks if the given URL matches the specified pattern based on host, path, and port.\n```"}
+{"idx": 17, "prompt1_answer": "// This method handles the timeout logic for a timer, logging the retry attempt if the timer is active and updating its state accordingly."}
+{"idx": 18, "prompt1_answer": "```java\n// This function continuously reads and parses Prolog clauses from standard input, logging any parsing errors encountered.\n```"}
+{"idx": 19, "prompt1_answer": "```java\n// Determines if there is an unclosed non-escaped opening bracket '[' before a given position in the string.\n```"}
+{"idx": 20, "prompt1_answer": "// This function generates a string describing the text decorations (underline and strikethrough) applied to a given font."}
+{"idx": 21, "prompt1_answer": "```java\n// Copies a resource file to a specified directory and returns the path of the copied file.\n```"}
+{"idx": 22, "prompt1_answer": "// Deletes all records in the local cache based on the operations specified in the recordOperations map."}
+{"idx": 23, "prompt1_answer": "```java\n// This method shuts down all members of a distributed system and returns their status as an array of strings.\n```"}
+{"idx": 24, "prompt1_answer": "```java\n// Retrieves a Member object by its name from a hash map, initializing the map if necessary.\n```"}
+{"idx": 25, "prompt1_answer": "```java\n// Executes the provided consumer for each Pipe in the collection while managing MDC context for logging.\n```"}
+{"idx": 26, "prompt1_answer": "// This function checks if the given string matches the specified pattern, either exactly or through a recursive matching process."}
+{"idx": 27, "prompt1_answer": "// Validates an XML input stream against a specified XML schema and throws a ValidationException if the validation fails."}
+{"idx": 28, "prompt1_answer": "// This function constructs a map of parameter names to their corresponding values from a given ParametrizedOperation."}
+{"idx": 29, "prompt1_answer": "```java\n// Retrieves the resource version from the metadata of a given HasMetadata entity if it is present and not blank.\n```"}
+{"idx": 30, "prompt1_answer": "```java\n// Ensures the login processing URL and failure handler are set, and configures the logout success URL if not customized.\n```"}
+{"idx": 31, "prompt1_answer": "```java\n/**\n * Serializes a key-value pair to JSON while managing the current path and excluding nulls based on context settings.\n */\n```"}
+{"idx": 32, "prompt1_answer": "// This method retrieves the Class object corresponding to the specified ObjectStreamClass, using the current thread's context ClassLoader and handling primitive classes if the Class is not found."}
+{"idx": 33, "prompt1_answer": "// This function initializes a query with the provided parameters, setting each named parameter from the map, and returns the current instance."}
+{"idx": 34, "prompt1_answer": "```java\n// Returns the corresponding URI for a given name based on its prefix, or a default URI based on the attribute flag.\n```"}
+{"idx": 35, "prompt1_answer": "// Computes a hash value for an array of keys based on their corresponding field types using a combination of multiplication and XOR operations."}
+{"idx": 36, "prompt1_answer": "```java\n// Removes the specified metadata from the parent dataset's local metadata if it exists, and resets the hash code.\n```"}
+{"idx": 37, "prompt1_answer": "// Sets the maximum number of rows to be retrieved by the SQL statement and handles any potential SQL exceptions."}
+{"idx": 38, "prompt1_answer": "```java\n// Disposes of the resources if the object has not been disposed yet, ensuring thread safety.\n```"}
+{"idx": 39, "prompt1_answer": "```java\n// Initializes a queue with a specified buffer size if the subscription is successfully set once.\n```"}
+{"idx": 40, "prompt1_answer": "// Processes the input audio frame, decodes it into a sample buffer, and logs any unexpected end-of-stream events."}
+{"idx": 41, "prompt1_answer": "// Returns true if all containers in the PodSpec have blank or null image fields; otherwise, returns false."}
+{"idx": 42, "prompt1_answer": "// Removes a footer view associated with the given view if present, updates the adapter, and returns whether the removal was successful."}
+{"idx": 43, "prompt1_answer": "// This function returns the integer value of the first gate for a given data type, or -1 if the data type is unrecognized."}
+{"idx": 44, "prompt1_answer": "// This method awaits a condition based on the provided count, either busy-waiting if the count is 1000 or less, or asynchronously waiting if greater than 1000."}
+{"idx": 45, "prompt1_answer": "// Sets the sender, reply-to address, and recipients for the provided MimeMessage based on the given Email object."}
+{"idx": 46, "prompt1_answer": "```java\n// Updates the service ticket and metadata of the given route field and returns a new Field object based on the response from a post request.\n```"}
+{"idx": 47, "prompt1_answer": "// Converts a rotation matrix (DMatrixRMaj) into a quaternion (Quaternion_F64), updating the quaternion if it is provided."}
+{"idx": 48, "prompt1_answer": "// This function extracts and returns the hostname from a given URL in lowercase, or returns null if the URL is malformed."}
+{"idx": 49, "prompt1_answer": "// This function converts a byte array into an object array of specified data types based on the provided parameters for element count and byte order."}
+{"idx": 50, "prompt1_answer": "// This function transforms a given string into title case, capitalizing the first character of each word while converting the rest to lowercase."}
+{"idx": 51, "prompt1_answer": "```java\n// Closes all WebSocket connections and waits for the selector thread to finish within the given timeout.\n```"}
+{"idx": 52, "prompt1_answer": "```java\n// Sets the limit for the buffer, ensuring it is within the valid range.\n```"}
+{"idx": 53, "prompt1_answer": "// This function retrieves and returns a map of matching records identified by a BitSet for a specified field and value in a given type."}
+{"idx": 54, "prompt1_answer": "// This function generates a list of `RowsMapping` objects by concatenating elements of the input array and retrieving corresponding mappings from a provided shift map."}
+{"idx": 55, "prompt1_answer": "```java\n// This method removes specific event properties from a file while preserving the rest of the content.\n```"}
+{"idx": 56, "prompt1_answer": "// Reads a fixed-length protocol code from a ByteBuf and converts it to a ProtocolCode object if enough readable bytes are available."}
+{"idx": 57, "prompt1_answer": "// Caches non-null entities from the result array based on their identifiers, replacing duplicates with cached instances."}
+{"idx": 58, "prompt1_answer": "// Removes the specified client from the collection while ensuring thread safety with locking."}
+{"idx": 59, "prompt1_answer": "This function calculates and returns a new `Index` object based on the provided ranges after validating their sizes and ensuring they fall within specified bounds."}
+{"idx": 60, "prompt1_answer": "```java\n// Returns an array of direct super types for the given type, handling various type scenarios including parameterized types, classes, type variables, and wildcards.\n```"}
+{"idx": 61, "prompt1_answer": "// This function retrieves and returns metadata about the Version class, including its specification and implementation details."}
+{"idx": 62, "prompt1_answer": "// Deletes a database specified by `dbName` after confirming the action with the expected confirmation string."}
+{"idx": 63, "prompt1_answer": "```java\n// This function returns the maximum values between two INDArray objects, optionally duplicating the first array if specified.\n```"}
+{"idx": 64, "prompt1_answer": "// This method attempts to close a query and handle any resulting SQL exceptions, detaching the query from the session if it exists."}
+{"idx": 65, "prompt1_answer": "```java\n// Returns the corresponding OSFamily enum value based on the provided GNU string representation of the operating system.\n```"}
+{"idx": 66, "prompt1_answer": "// This method handles form submission, performs pre-validation, processes the submission, and manages the unsaved status of the web sheet."}
+{"idx": 67, "prompt1_answer": "// Creates and returns a new Element based on the specified Tag, determining if it is a void tag and if it should self-close based on configuration settings."}
+{"idx": 68, "prompt1_answer": "```java\n// Sets the specified ID on the given POJO if it is of the expected class type; otherwise, throws an IllegalArgumentException.\n```"}
+{"idx": 69, "prompt1_answer": "// This method constructs the web.xml descriptor by creating servlets, servlet mappings, security constraints, login configurations, and security roles based on the provided deployment and metadata."}
+{"idx": 70, "prompt1_answer": "```java\n// Retrieves the token at the specified index, advancing through the token chain as needed.\n```"}
+{"idx": 71, "prompt1_answer": "// Converts an ArrayStructure into an ArrayStructureBB, potentially reordering the byte buffer based on the specified byte order and copying structure data."}
+{"idx": 72, "prompt1_answer": "// This function calculates the depth of the current node in a tree structure by counting the number of ancestors until the root is reached."}
+{"idx": 73, "prompt1_answer": "```java\n// Initializes various attributes related to image metadata from the header information.\n```"}
+{"idx": 74, "prompt1_answer": "```java\n// This function converts a given map into an object of a specified type, handling nested collections and property assignments.\n```"}
+{"idx": 75, "prompt1_answer": "```java\n// This method loads a value into a specified property of a given object (pojo) using the provided load context and property path.\n```"}
+{"idx": 76, "prompt1_answer": "// This method adds a server-side function to the appropriate collection based on its type."}
+{"idx": 77, "prompt1_answer": "```java\n// Parses the specified input file and returns a Node.Nodes object, handling potential exceptions during the process.\n```"}
+{"idx": 78, "prompt1_answer": "// Reads image pixel data row by row into a 2D array if the reader is initialized and then closes the reader."}
+{"idx": 79, "prompt1_answer": "// This method attempts to reconnect to a server while handling potential connection errors, ensuring that it only operates when not in a shutdown state."}
+{"idx": 80, "prompt1_answer": "```java\n// Sends the provided Throwable as an exception using the ResultSender if the data is an instance of Throwable.\n```"}
+{"idx": 81, "prompt1_answer": "// Generates a CSS style string based on the properties of the given cell and its associated styles in the workbook."}
+{"idx": 82, "prompt1_answer": "```java\n// Converts a byte array into a long value starting from a specified offset, processing 8 bits at a time.\n```"}
+{"idx": 83, "prompt1_answer": "```java\n// This function modifies a given identifier to ensure it conforms to Java identifier rules and avoids conflicts with Java keywords.\n```"}
+{"idx": 84, "prompt1_answer": "```java\n// Retrieves the latest schema ID for the given subject from the schema registry.\n```"}
+{"idx": 85, "prompt1_answer": "// This method performs a rollback on all transaction resources, handling exceptions and updating the transaction status accordingly."}
+{"idx": 86, "prompt1_answer": "// Returns the IPv4 or IPv6 address as a string from the given SocketAddress, or an empty string if not applicable."}
+{"idx": 87, "prompt1_answer": "```java\n// This function retrieves the model indices of all columns in the specified table model and returns them as an array.\n```"}
+{"idx": 88, "prompt1_answer": "```java\n// Retrieves or creates a Translator associated with the given TypeKey, using the provided context and path.\n```"}
+{"idx": 89, "prompt1_answer": "// Generates a code verifier and challenge for PKCE and updates the provided maps with these parameters."}
+{"idx": 90, "prompt1_answer": "// This function determines and returns the chart type based on the provided plot area of a given CTChart object."}
+{"idx": 91, "prompt1_answer": "// This function attempts to append padded data to a term if it is open and within the specified length limits, returning the new position or indicating backpressure if limits are exceeded."}
+{"idx": 92, "prompt1_answer": "// This function retrieves the value of the LOCATION_FIELD from the metadataRecord if present, otherwise throws a HiveStageCheckedException."}
+{"idx": 93, "prompt1_answer": "// This method returns an array of ExtendedEntityManager instances from a stored list, clearing the list afterwards."}
+{"idx": 94, "prompt1_answer": "```java\n// This method parses a constraint expression from the request state and handles various potential exceptions.\n```"}
+{"idx": 95, "prompt1_answer": "// Creates a resizable text field with a specified name, label, and default value, and adds it to the form."}
+{"idx": 96, "prompt1_answer": "```java\n// Reads a key-value pair from the input stream and returns a new SnapshotRecord, or null if the key is null.\n```"}
+{"idx": 97, "prompt1_answer": "```java\n// Adds a soft reference of the given object to the collection after maintaining the state.\n```"}
+{"idx": 98, "prompt1_answer": "```java\n// Returns an array of sorted FieldDescriptors, initializing it if not already done.\n```"}
+{"idx": 99, "prompt1_answer": "// This method receives a datagram and returns the InetSocketAddress of the sender, clearing the provided ByteBuffer before use."}
+{"idx": 100, "prompt1_answer": "// This method updates the publication message with the specified ASCII channel string at a designated offset."}
+{"idx": 101, "prompt1_answer": "```java\n// Returns the Float value associated with the given key from the map, or null if the key is not found.\n```"}
+{"idx": 102, "prompt1_answer": "```java\n// Creates and adds a grip panel to the left vertical bar of the frame's content pane.\n```"}
+{"idx": 103, "prompt1_answer": "// Filters out dependencies annotated with @Assisted from the provided set of dependencies."}
+{"idx": 104, "prompt1_answer": "// Initializes metadata by resolving a URI from the given xlinkHref and reading its content using a specified converter, while handling potential exceptions."}
+{"idx": 105, "prompt1_answer": "```java\n// Compares the current level object with another level object to determine if it is lower.\n```"}
+{"idx": 106, "prompt1_answer": "```java\n// This method finalizes the Parquet file by serializing column and offset indexes, logging the position, creating the metadata footer, and closing the output stream.\n```"}
+{"idx": 107, "prompt1_answer": "// Copies all files from the specified source directory to the target directory, logging any errors if files do not exist."}
+{"idx": 108, "prompt1_answer": "// Writes a dataset to a specified XML file if it is usable, logging success or failure messages accordingly."}
+{"idx": 109, "prompt1_answer": "```java\n// This deprecated method retrieves the response as a string for a given URL-encoded request using the specified HTTPSession.\n```"}
+{"idx": 110, "prompt1_answer": "// This method copies an existing \"getUsageParameterSet\" method from a given class and updates its body to delegate to a management handler, while logging the operation if trace level logging is enabled."}
+{"idx": 111, "prompt1_answer": "```java\n// This method checks if the provided RandomAccessFile is valid based on its type and size criteria.\n```"}
+{"idx": 112, "prompt1_answer": "// This method persists the access control entries of a mutable ACL to the database if any entries exist."}
+{"idx": 113, "prompt1_answer": "```java\n// Recursively updates the owner document for the given node and all its child nodes.\n```"}
+{"idx": 114, "prompt1_answer": "```java\n// Retrieves the Bundle-SymbolicName attribute from the manifest of the specified JAR file.\n```"}
+{"idx": 115, "prompt1_answer": "// This method checks if a given node matches all specified selectors, returning true if it does and false otherwise."}
+{"idx": 116, "prompt1_answer": "// Generates a WARC (Web ARChive) information record as a byte array from the provided fields and metadata."}
+{"idx": 117, "prompt1_answer": "```java\n// Generates a list of output shapes based on the shapes of the left and right arguments, handling broadcasting if needed.\n```"}
+{"idx": 118, "prompt1_answer": "```java\n// Creates a new LazyRef instance initialized with the provided producer function.\n```"}
+{"idx": 119, "prompt1_answer": "```java\n/**\n * Creates a valid validation instance that checks if a given value is an instance of the specified class type U.\n */\n```"}
+{"idx": 120, "prompt1_answer": "// This method retrieves the read quorum configuration value for a specified cluster, falling back to a default configuration if not found."}
+{"idx": 121, "prompt1_answer": "```java\n// Checks if the subscriber can accept any notifications from the current list of items.\n```"}
+{"idx": 122, "prompt1_answer": "// Processes WebSocket connections in the input queue, reading data into buffers and managing the queue accordingly."}
+{"idx": 123, "prompt1_answer": "```java\n// Selects and scrolls the tree view to the specified dataset if it is not null.\n```"}
+{"idx": 124, "prompt1_answer": "```java\n// Checks if the given HollowDataset contains any list, set, or map schemas.\n```"}
+{"idx": 125, "prompt1_answer": "This function creates a special graphic symbol structure with specified dimensions and attributes based on input parameters, along with member variables for starting coordinates."}
+{"idx": 126, "prompt1_answer": "```java\n// Returns a collection of supported audio format types, excluding null and unsupported formats.\n```"}
+{"idx": 127, "prompt1_answer": "```java\n// This function creates and returns an InvDatasetScan object based on the attributes of the provided XML element, handling potential errors in dataset configuration.\n```"}
+{"idx": 128, "prompt1_answer": "```java\n// Creates a SimpleUnit instance from the given name, returning null if an exception occurs during creation.\n```"}
+{"idx": 129, "prompt1_answer": "// Updates the WAL counters with the elapsed time since the last timestamp and triggers a snapshot if necessary."}
+{"idx": 130, "prompt1_answer": "```java\n// Locks the specified form container based on the provided form and job view parameters.\n```"}
+{"idx": 131, "prompt1_answer": "// Stores the argument at the specified index into a local variable based on its type using the provided MethodVisitor."}
+{"idx": 132, "prompt1_answer": "// This method lazily loads and returns a class object, caching the result to avoid redundant loading."}
+{"idx": 133, "prompt1_answer": "// Updates the connection layer and adds children from a new graph if it meets the criteria for a new diagram or existing model."}
+{"idx": 134, "prompt1_answer": "// This method attempts to cast a Throwable to an Exception, throwing the original Throwable as the specified type if the cast fails."}
+{"idx": 135, "prompt1_answer": "// This function adds all options from each task in the provided TaskFactory to the given Options object."}
+{"idx": 136, "prompt1_answer": "```java\n// Generates an HTML table row with the background color based on the sum of file counts in the specified directory.\n```"}
+{"idx": 137, "prompt1_answer": "```java\n// Retrieves a list of server names from the configuration of the specified data center, throwing an exception if none are found.\n```"}
+{"idx": 138, "prompt1_answer": "```java\n// Stores the access token and its secret in the preferences.\n```"}
+{"idx": 139, "prompt1_answer": "```java\n// Handles client error responses based on the provided status code and message.\n```"}
+{"idx": 140, "prompt1_answer": "// Initializes a BeanUtilBean with specified properties and calls the visit method."}
+{"idx": 141, "prompt1_answer": "// Initiates a scheduled task to check for lost WebSocket connections based on a specified timeout."}
+{"idx": 142, "prompt1_answer": "```java\n// Acknowledges the processing of a tuple and optionally stores an empty value in the cache based on the URL.\n```"}
+{"idx": 143, "prompt1_answer": "// This function attempts to store an object at a specified stream position and returns its handle, or Integer.MIN_VALUE if disabled or if the class info indicates it's flat."}
+{"idx": 144, "prompt1_answer": "```java\n// Parses a given JSON string and returns the resulting JsonValue, throwing a RuntimeException in case of an IOException.\n```"}
+{"idx": 145, "prompt1_answer": "```java\n// Sets the values of the matrix and ensures the number of rows and columns are equal by taking the minimum of the two dimensions.\n```"}
+{"idx": 146, "prompt1_answer": "```java\n// Retrieves the top-level VariableEnhanced instance that matches the specified original name, or returns null if none is found.\n```"}
+{"idx": 147, "prompt1_answer": "// Initializes necessary components and variables for HTML processing, including schema, scanner, auto-detector, and root elements."}
+{"idx": 148, "prompt1_answer": "// Removes and returns the TimeoutExtImpl element at the specified index while maintaining the heap property of the queue."}
+{"idx": 149, "prompt1_answer": "// This method deploys a given DeploymentUnit to a specified ServiceTarget while managing class loaders and ensuring cleanup of attachments."}
+{"idx": 150, "prompt1_answer": "```java\n// Restores the system properties from a map or clears them if not present.\n```"}
+{"idx": 151, "prompt1_answer": "```java\n// Generates a random 3D vector with components between the specified min and max values.\n```"}
+{"idx": 152, "prompt1_answer": "```java\n// This function reads data from a variable, processes it in chunks, and returns an Array of the specified data type containing the processed data.\n```"}
+{"idx": 153, "prompt1_answer": "// Connects to a remote server using provided credentials, handling potential credential interception and ensuring proper request-response flow."}
+{"idx": 154, "prompt1_answer": "```java\n// Deletes a content tree at the specified path, including all its child content items.\n```"}
+{"idx": 155, "prompt1_answer": "```java\n// Synchronizes the CUDA context by flushing the queue and syncing both the old and special streams.\n```"}
+{"idx": 156, "prompt1_answer": "// This function retrieves a CTDPt object from a list based on a specified index, returning null if not found or if the list is null."}
+{"idx": 157, "prompt1_answer": "```java\n// Continuously reads and deserializes data from the input stream until the end of the stream is reached.\n```"}
+{"idx": 158, "prompt1_answer": "```java\n// Divides the current unit by the specified unit, handling OffsetUnit differently.\n```"}
+{"idx": 159, "prompt1_answer": "// This method retrieves an existing instance of the specified type or creates, stores, and generates a new instance if none exists."}
+{"idx": 160, "prompt1_answer": "// Parses the XML from the provided RawSld object and returns a StyledLayerDescriptorInfo, throwing an SldException if a validation error occurs."}
+{"idx": 161, "prompt1_answer": "// Retrieves a Belief object from a given Set of Belief objects based on the specified index, returning null if the index is invalid."}
+{"idx": 162, "prompt1_answer": "```java\n// Processes a polygon and its holes, adding their respective rings to the path if they meet the minimum point requirements.\n```"}
+{"idx": 163, "prompt1_answer": "// Parses the specified input file and returns a Node structure, using the provided parent node and JAR file URL."}
+{"idx": 164, "prompt1_answer": "```java\n// Waits for all futures to complete and clears the futures list.\n```"}
+{"idx": 165, "prompt1_answer": "```java\n// Recursively processes a binary tree structure, starting from a given node 't' and traversing its left and right children.\n```"}
+{"idx": 166, "prompt1_answer": "```java\n// Performs the QuickSort algorithm on a given array of strings within specified bounds.\n```"}
+{"idx": 167, "prompt1_answer": "// Retrieves a list of records from Kinesis based on the provided request, while handling potential exceptions and logging relevant information."}
+{"idx": 168, "prompt1_answer": "```java\n// Parses the given character array content using the Lagarto parser and returns the resulting Document.\n```"}
+{"idx": 169, "prompt1_answer": "```java\n// Returns an iterator that traverses UberNode elements with non-empty data only.\n```"}
+{"idx": 170, "prompt1_answer": "// Returns the port number from the URI, or defaults to WebSocket standard ports based on the scheme if no port is specified."}
+{"idx": 171, "prompt1_answer": "// Creates and returns a FieldPath of ObjectFieldSegments based on the provided dataset, type, and path, with optional auto-expansion."}
+{"idx": 172, "prompt1_answer": "// This method recursively processes files and directories, including JAR files based on specified filters, and maps directory URIs to their names."}
+{"idx": 173, "prompt1_answer": "// This function processes a collection of ColorDesc objects, updating their subfields and managing arcs in an NFA (nondeterministic finite automaton) based on specific conditions."}
+{"idx": 174, "prompt1_answer": "// This function processes a ByteBuffer by optionally skipping a specified number of bytes and then copies the remaining data into a new byte array for further processing."}
+{"idx": 175, "prompt1_answer": "```java\n// This deprecated method retrieves a list of footers from a summary file based on the provided configuration and file status.\n```"}
+{"idx": 176, "prompt1_answer": "// Executes a given process, captures its standard output and error streams, and returns the process's exit result along with the captured output as a string."}
+{"idx": 177, "prompt1_answer": "// Returns a ServiceName by appending the class loader's name, the provided class's name, and the state name, defaulting to INSTALLED if the state is null."}
+{"idx": 178, "prompt1_answer": "```java\n// Attempts to make an AccessibleObject accessible if it is not null and meets certain visibility criteria, returning true if successful.\n```"}
+{"idx": 179, "prompt1_answer": "// This function determines if a given page index is valid based on the state of the provided changesContainer."}
+{"idx": 180, "prompt1_answer": "// This function creates and initializes a new LockEntry element with a child locktype set to \"write\"."}
+{"idx": 181, "prompt1_answer": "// This method attempts to unbind names from the Activity Context Naming Facility for each name in the cache, logging any failures encountered during the process."}
+{"idx": 182, "prompt1_answer": "// This function finds and returns the deepest common parent directory between two specified directories."}
+{"idx": 183, "prompt1_answer": "```java\n// This method returns the original string or replaces escaped backticks with unescaped backticks if present.\n```"}
+{"idx": 184, "prompt1_answer": "// This method reads and processes gate data from a RandomAccessFile, handling missing values appropriately based on a specified gate range."}
+{"idx": 185, "prompt1_answer": "```java\n// Reads data from the provided InputStream and returns it as a byte array.\n```"}
+{"idx": 186, "prompt1_answer": "// This function reads the contents of an InputStream with the specified encoding and returns it as a String, handling exceptions and ensuring the InputStream is closed."}
+{"idx": 187, "prompt1_answer": "// This function attempts to drop a class from the database schema, ensuring it handles existing vertices or edges appropriately based on safety flags."}
+{"idx": 188, "prompt1_answer": "// Establishes a connection if the file exists; throws FileNotFoundException if the file is not found."}
+{"idx": 189, "prompt1_answer": "```java\n// Sets the ComponentCreateServiceFactory, throwing an exception if the provided factory is null.\n```"}
+{"idx": 190, "prompt1_answer": "```java\n// Attempts to parse a date string using multiple date formats and returns the corresponding timestamp in milliseconds or null if parsing fails.\n```"}
+{"idx": 191, "prompt1_answer": "```java\n// Retrieves the text content of the first \"status\" element from the root, ensuring it exists.\n```"}
+{"idx": 192, "prompt1_answer": "```java\n// Returns the nearest DapGroup ancestor of the current node, or null if the sort is DATASET.\n```"}
+{"idx": 193, "prompt1_answer": "// This method intercepts calls to specified methods, handles dependency injection, and manages provider lifecycles while ensuring error handling for provisioning issues."}
+{"idx": 194, "prompt1_answer": "```java\n// Adds a credential to the subject's private credentials, respecting security manager checks.\n```"}
+{"idx": 195, "prompt1_answer": "// This function retrieves and returns coverage data based on the specified width, height, and projection from a GeoPackage, supporting either integer or float data types."}
+{"idx": 196, "prompt1_answer": "// This function handles HTTP responses by checking for ETag matches and serving cached content with appropriate encoding and status codes."}
+{"idx": 197, "prompt1_answer": "// Adds a value to the list associated with the given name, removing previous values if any exist."}
+{"idx": 198, "prompt1_answer": "```java\n// Returns an iterator of classes excluding those in the \"com.sun.jersey\" package based on the provided service parameters.\n```"}
+{"idx": 199, "prompt1_answer": "// Returns the raw Key object from the given typed Key, or null if the input is null."}

@@ -1,0 +1,200 @@
+{"idx": 0, "prompt1_answer": "This function returns the total transmitted network data as bytes or human-readable format based on the `human_readable` parameter."}
+{"idx": 1, "prompt1_answer": "The function `XXXXX` processes a slice or an integer input to ensure valid start, stop, and step values for slicing an array of size `dim`."}
+{"idx": 2, "prompt1_answer": "This function queries an existing container by ID or creates a new one if it doesn't exist, returning the container ID in either case."}
+{"idx": 3, "prompt1_answer": "This function iterates through all bars and calls their initializers with `self` as an argument."}
+{"idx": 4, "prompt1_answer": "This function handles specific exception types by returning appropriate HTTP responses with error details and headers."}
+{"idx": 5, "prompt1_answer": "This function initializes a Zipkin endpoint protobuf message by setting its service name, port, IPv4, and IPv6 fields based on the provided `endpoint` object."}
+{"idx": 6, "prompt1_answer": "This function generates a list of resonance structures for a given molecule `mol` with specifiedFlags and a maximum number of structures to return."}
+{"idx": 7, "prompt1_answer": "This function checks if a parameter `name` is already in the trajectory; if so, it raises a `ValueError`, otherwise, it adds the parameter to the `_changed_default_parameters` dictionary with its arguments and keyword arguments."}
+{"idx": 8, "prompt1_answer": "This function handles the generation and redirection of an authorization code based on input parameters and validation checks."}
+{"idx": 9, "prompt1_answer": "This function updates the tier structure by transferring the properties of one tier to another and updating the parent reference for its children."}
+{"idx": 10, "prompt1_answer": "This function retrieves a pipeline from a cache or computes it from a dictionary, ensuring the pipeline's name matches the requested name and adding it to the cache if necessary."}
+{"idx": 11, "prompt1_answer": "This function calculates the binomial coefficient (n choose k) using lambda functions and the `reduce` method."}
+{"idx": 12, "prompt1_answer": "This function collects software versions and build information from context attributes and writes them to a `.versions` file in JSON format."}
+{"idx": 13, "prompt1_answer": "This function creates and returns an APE value object based on the type specified by `kind`, encoding the value to UTF-8 if it's a text/external type and Python 3 is in use."}
+{"idx": 14, "prompt1_answer": "This function creates a text entry dialog with optional password and multiline modes, returning the entered text if accepted."}
+{"idx": 15, "prompt1_answer": "This function normalizes the input array `S` along the specified `axis` using the given `norm` criterion and handles cases where normalization might fail due to small values or non-finite inputs."}
+{"idx": 16, "prompt1_answer": "This function creates a proxy class for the given object that delegates attribute accesses to the original object."}
+{"idx": 17, "prompt1_answer": "The function `XXXXX` creates an XML script for filtering and processes input STL files to modify the script accordingly, handling non-MLP inputs by defaulting to a XYZ file if needed."}
+{"idx": 18, "prompt1_answer": "The function `XXXXX` extracts and parses specific fields from an XML element `e_change_info`, returning them in a dictionary."}
+{"idx": 19, "prompt1_answer": "This function iterates through each section in the configuration dictionary `conf_dict` and updates the corresponding section in `self` with the values from `secdict`, using the flag `conf_arg` to control the update behavior."}
+{"idx": 20, "prompt1_answer": "This function processes each subrun by adding and analyzing components and analyzers, running the network, and then removing them in sequence."}
+{"idx": 21, "prompt1_answer": "This function creates a new receiver link for a given target address and optional parameters, raising an error if a receiver with the same name already exists."}
+{"idx": 22, "prompt1_answer": "This function retrieves the cube dimension metadata for a given token using the specified resolution, defaulting to the minimum available resolution if none is provided."}
+{"idx": 23, "prompt1_answer": "The function `XXXXX` sets log levels for loggers and configures their handlers to write to specified log files."}
+{"idx": 24, "prompt1_answer": "This function validates the input path, extracts the parent directory by removing the last path segment, and retrieves the entity using the modified path."}
+{"idx": 25, "prompt1_answer": "This function expands user directories, then loads Streamlink plugins from each directory if it exists, logging a warning for non-existent or invalid directories."}
+{"idx": 26, "prompt1_answer": "This function rotates coordinates `(x, y)` by `angle_degrees` and optionally propagates uncertainties to the new coordinates `(xnew, ynew)`."}
+{"idx": 27, "prompt1_answer": "This function processes each item in `seq` by copying the context `ctx` and updating it with `item`, then yields results from `pexpr.compute` for each copy."}
+{"idx": 28, "prompt1_answer": "This function checks if the input buffer's history contains a given substring as a prefix or anywhere in the string, and if found, replaces the current history entry with the matching one."}
+{"idx": 29, "prompt1_answer": "This function parses input using a given parser and reader, handles continuations, and returns a failure with unique expected errors if the parsing fails."}
+{"idx": 30, "prompt1_answer": "This function returns either `self.dst` or `self.src` based on the direction, raising an error if the direction is neither IN nor OUT."}
+{"idx": 31, "prompt1_answer": "This function yields the absolute file paths of all files found in the directory specified by `self.dirpath` and its subdirectories using `os.walk`."}
+{"idx": 32, "prompt1_answer": "This function deletes a message from either a queue or a subscription based on the message properties provided."}
+{"idx": 33, "prompt1_answer": "This function checks connection status and decides whether to attempt a reconnect or process a disconnect based on the current state and reconnect options."}
+{"idx": 34, "prompt1_answer": "This function formats values according to their type, returning a string representation of integers, floats formatted with `floatfmt`, and other types as is, using `missingval` for `None` values."}
+{"idx": 35, "prompt1_answer": "This function returns the result of applying `Guard` to three arguments: `self.read_queue`, `self.arys`, and `self.__put_idx`."}
+{"idx": 36, "prompt1_answer": "This function extracts patches from an image based on scaled and clipped bounding boxes, optionally padding with a specified fill value."}
+{"idx": 37, "prompt1_answer": "The function `XXXXX` checks if a file with the given `filename` already exists and prompts the user for confirmation before overwriting, unless the `force` parameter is set to `True`."}
+{"idx": 38, "prompt1_answer": "This function iterates through supported digest algorithms, validates tokens using each, and returns the first valid data found."}
+{"idx": 39, "prompt1_answer": "This function retrieves albums for a given Spotify artist ID, with optional parameters for including specific album groups, limiting results, offsetting the result list, and specifying a market."}
+{"idx": 40, "prompt1_answer": "This function clears the output history, sets the current directory as the initial directory history entry, and starts a new session if `new_session` is True."}
+{"idx": 41, "prompt1_answer": "This function initializes an instance from a state dictionary, applying various configurations and selections based on the provided data."}
+{"idx": 42, "prompt1_answer": "This function extracts a video URL from a response, appending a hash if necessary, and returns it as a complete URL."}
+{"idx": 43, "prompt1_answer": "This function retrieves credits data from an API endpoint, sets attributes based on the response, and returns the response object."}
+{"idx": 44, "prompt1_answer": "This function sets up debugging for a terminated program with an unhandled exception and optionally restarts it with the same arguments."}
+{"idx": 45, "prompt1_answer": "This function adds command-line arguments related to archive operations to the argument parser."}
+{"idx": 46, "prompt1_answer": "This function sets `_idx` and `_crun` based on the input `name_or_idx`, and restores default parameters if the input is `None`, a wildcard string, or `-1`."}
+{"idx": 47, "prompt1_answer": "This function checks if any interval in `self._table` conflicts with intervals in the given `timeslots` collection for a specific channel, returning `False` at the first conflict found or `True` if no conflicts exist."}
+{"idx": 48, "prompt1_answer": "This function sends an \"LIST EXTENSIONS\" command to an NNTP server and yields each line of the response, raising an exception if the initial response code is not 202."}
+{"idx": 49, "prompt1_answer": "This function sends a prepared request using a session and applies optional extra options before returning the response or logging and re-raising a connection error."}
+{"idx": 50, "prompt1_answer": "This function filters network requests based on specified hostnames, using regular expressions if applicable, and enables networking filtering for the object instance."}
+{"idx": 51, "prompt1_answer": "This function attempts to terminate the child process and handles the case where the process might already be terminated by catching the `OSError` with errno 3."}
+{"idx": 52, "prompt1_answer": "This function checks if a URL contains \"http\" (case-insensitive), and if not, adds \"http://\" to the beginning of the URL before parsing it to extract the hostname."}
+{"idx": 53, "prompt1_answer": "This function simplifies a given `U3Gate` to either a `U1Gate`, `U2Gate`, or `IdGate` based on the values of its parameters, using precision thresholds for comparison."}
+{"idx": 54, "prompt1_answer": "This function returns the URL for the image, falling back to a medium-sized GIF if the file is not a GIF."}
+{"idx": 55, "prompt1_answer": "This function processes URL parameters and options for generating file previews, then outputs the results using Click's `echo` method."}
+{"idx": 56, "prompt1_answer": "This function initializes and configures a text editing control based on the `kind` attribute and installs event filters for it and its viewport."}
+{"idx": 57, "prompt1_answer": "This function evaluates the current code text as Python executable and returns the result of the specified function name `fn_name` executed in the resulting global namespace."}
+{"idx": 58, "prompt1_answer": "This function decorates a given `func` by adding metadata and setting various attributes, ensuring it can be recognized and manipulated appropriately based on its properties."}
+{"idx": 59, "prompt1_answer": "The function `XXXXX` copies the input wave and bounds it within the specified independent variable range before returning the maximum value of the dependent vector."}
+{"idx": 60, "prompt1_answer": "This asynchronous method initializes and returns a `Player` object using the current player data fetched from `http.current_player()`."}
+{"idx": 61, "prompt1_answer": "This function reads a file line by line, decodes each byte line to UTF-8, and yields JSON objects parsed from non-empty lines."}
+{"idx": 62, "prompt1_answer": "The function `XXXXX` returns the value of the `XML_EDITOR` environment variable, falling back to `EDITOR` and then to a platform-specific default editor if neither is set."}
+{"idx": 63, "prompt1_answer": "This function performs matrix multiplication on two dense numpy arrays, optionally transposing or conjugating them based on the input parameters."}
+{"idx": 64, "prompt1_answer": "This function returns the most recent non-zero value from the `timeseries` data, which is a dictionary mapping metrics to lists of points."}
+{"idx": 65, "prompt1_answer": "This function decodes a variable-length quantity (VLQ) encoded in seven-bit segments and returns the cumulative integer value."}
+{"idx": 66, "prompt1_answer": "The function `XXXXX` converts a value from one currency symbol to another using a conversion factor based on the specified date."}
+{"idx": 67, "prompt1_answer": "This function decodes the input line from UTF-8 and processes the received JSON response by calling `_worker.response_received()`."}
+{"idx": 68, "prompt1_answer": "This function maps input values `x` to the indices of bins defined by `edges`, handling edge cases and extending intervals if necessary."}
+{"idx": 69, "prompt1_answer": "This function tests a URL for syntax validity or performs a full URL status check based on configuration settings and outputs or logs the result accordingly."}
+{"idx": 70, "prompt1_answer": "This function executes a SQL query on Azure Cosmos DB and returns the results as a list."}
+{"idx": 71, "prompt1_answer": "This function computes the chroma feature representation of an audio signal using its spectrogram."}
+{"idx": 72, "prompt1_answer": "This function processes a list of strings in parallel using multiple cores, applies a text processing constructor, and then flattens the resulting list of lists."}
+{"idx": 73, "prompt1_answer": "This function creates a BinaryAnnotation object using the provided key, value, annotation type, and host information."}
+{"idx": 74, "prompt1_answer": "This function attempts to refresh OAuth2 tokens for Reddit access, handling retries and token expiration logic."}
+{"idx": 75, "prompt1_answer": "This function initializes various game state attributes including piece board positions, occupied squares, king locations, turn indicator, move number, and hash values for transpositions and incremental Zobrist hashing."}
+{"idx": 76, "prompt1_answer": "This function computes the forward algorithm to calculate the likelihood of being in each state at each time step, broadcasting initial log probabilities and scanning through transition log probabilities."}
+{"idx": 77, "prompt1_answer": "This function `XXXXX` is a decorator that ensures a method cannot be called while a callback is being executed, raising a `RuntimeError` if violated."}
+{"idx": 78, "prompt1_answer": "This function initiates authorization by sending a GET request to the Ecobee API to obtain an authorization code and PIN."}
+{"idx": 79, "prompt1_answer": "This function adapts HTTP responses for caching based on status codes and methods, updates cache if necessary, and marks the response as coming from cache."}
+{"idx": 80, "prompt1_answer": "This function iterates through the gate nodes, identifies those that are two-qubit gates, and returns a list of such gates."}
+{"idx": 81, "prompt1_answer": "This function searches through the layers and returns the layer's `find` method result for the specified parameter, or raises a `KeyError` if the layer is not found."}
+{"idx": 82, "prompt1_answer": "This function overrides the `install_lib` method to clean existing include directories and reinstall them, excluding specific files based on Python version."}
+{"idx": 83, "prompt1_answer": "This function parses a URL and extracts query parameters into a dictionary."}
+{"idx": 84, "prompt1_answer": "This function parses Ensembl exon lines, extracts relevant information, and yields formatted exon data with adjusted positions based on the strand."}
+{"idx": 85, "prompt1_answer": "This function annotates a queryset with the sum of past uses of discounts for either categories or products that the given user has paid for in their carts."}
+{"idx": 86, "prompt1_answer": "This function checks if a user should be blocked based on their ID, following count, and presence of stop words in their info."}
+{"idx": 87, "prompt1_answer": "This function checks if a command (`cmd`) is in a predefined dictionary `_PATHS`, and if not, finds its path using `subprocess.check_output` and stores it in `_PATHS` for future use."}
+{"idx": 88, "prompt1_answer": "This function reads a file line by line, yields each non-whitespace character converted to a specified type (default is `str`)."}
+{"idx": 89, "prompt1_answer": "This function checks if the current frame number is the last frame or if the frame's filename starts with the specified root directory (case-insensitive)."}
+{"idx": 90, "prompt1_answer": "This function checks if the `_initial_unitary` matrix has the correct shape for the given number of qubits, raising an error if it does not match."}
+{"idx": 91, "prompt1_answer": "This function returns a list of `WikiList` objects filtered from all arguments' lists based on the given pattern."}
+{"idx": 92, "prompt1_answer": "This function converts integers and tuples into a string representation based on their type, raising a ValueError for other types."}
+{"idx": 93, "prompt1_answer": "This function appends a new Stream object with the given content and optional name to the `_streams` list."}
+{"idx": 94, "prompt1_answer": "This function extracts specified fields from each element of `self` by splitting them, and returns a new list containing lines with parts from the extracted fields."}
+{"idx": 95, "prompt1_answer": "This function converts binary data to a value of the specified type, raising an `ArgumentError` if the binary data size mismatches the required size or if the type does not support binary conversion."}
+{"idx": 96, "prompt1_answer": "This function extracts and returns a list of `For`, `Pragma`, and `FuncCall` nodes from the kernel AST block items, ensuring at least one `For` statement is present."}
+{"idx": 97, "prompt1_answer": "This function checks if the key `k` exists in the `store` dictionary after ensuring the object's state has been updated by reading from the source if it has changed."}
+{"idx": 98, "prompt1_answer": "The function `XXXXX` raises a `ValueError` with the message \"Math domain error\" if the minimum or maximum value of `wave._dep_vector` is outside the range [-1, 1] before computing the hyperbolic arctangent of the vector."}
+{"idx": 99, "prompt1_answer": "The function `XXXXX` generates a Gaussian filter matrix and modifies it by making the second half negative, creating a specific pattern of positive and negative Gaussian weights."}
+{"idx": 100, "prompt1_answer": "This function returns an expression node for finding the index of the first occurrence of the maximum value in the frame, optionally skipping missing values and specifying the axis along which to operate."}
+{"idx": 101, "prompt1_answer": "This function evaluates a given TensorFlow function `fn` with provided arguments `fn_arg_list`, ensuring the result is a floating-point `Tensor`."}
+{"idx": 102, "prompt1_answer": "This function calculates and returns a probability value `pval` based on conditions comparing elements of `es` and `esnull` using numpy's conditional selection (`np.select`)."}
+{"idx": 103, "prompt1_answer": "This function collects file names from an S3 source directory, excluding directories, and deletes them in batches using a thread pool."}
+{"idx": 104, "prompt1_answer": "This function calculates the final bit address by adding the product of item count and child bit address end to the given bit address."}
+{"idx": 105, "prompt1_answer": "This function iterates over a dictionary's keys, converts them to integers or floats if possible, ensures no duplicate keys are added, and updates the dictionary accordingly."}
+{"idx": 106, "prompt1_answer": "This function clears the API path cache for each provider in `self.api_providers`."}
+{"idx": 107, "prompt1_answer": "This function fetches crates from a specified category API endpoint starting from the given page number and returns the raw crate data."}
+{"idx": 108, "prompt1_answer": "This function generates a decorator to ensure a user has access tokens for all specified services before allowing them to call the decorated view function."}
+{"idx": 109, "prompt1_answer": "This function creates a decorator to associate event processing functions with specific Glance event types, handling wildcard patterns when applicable."}
+{"idx": 110, "prompt1_answer": "This function serializes the CheckResponsePayload object into a byte array stream, writing out its attributes in the specified KMIP version format."}
+{"idx": 111, "prompt1_answer": "This function retrieves user information by name, either from cache or by sending a request and storing the result for future use."}
+{"idx": 112, "prompt1_answer": "This function initializes a `NotebookNode` object, setting its `name` attribute if provided and its `cells` attribute to an empty list or a list of cells depending on the input."}
+{"idx": 113, "prompt1_answer": "This function checks if any method in a given class definition is abstract and directly defined within the class itself."}
+{"idx": 114, "prompt1_answer": "This function validates and processes the content-type and body configurations for a device, ensuring they are compatible with specified HTTP methods and JSON formatted when applicable."}
+{"idx": 115, "prompt1_answer": "The function `XXXXX` attempts to close a file descriptor and rethrows an error if it's not valid (i.e., if `OSError` with `errno.EBADF` is raised)."}
+{"idx": 116, "prompt1_answer": "This function loads an audio file, separates its harmonic component, estimates and corrects the tuning, and then saves the pitch-corrected audio to an output file."}
+{"idx": 117, "prompt1_answer": "This function compares the state dictionaries of two modules, copying parameters from `state_dict` to `module` and identifying unexpected and missing keys."}
+{"idx": 118, "prompt1_answer": "This function generates and processes Ditaa input to produce PNG images, handling file paths and command execution for documentation visualization."}
+{"idx": 119, "prompt1_answer": "This function saves the model instance after updating the ppoi field and returning the file."}
+{"idx": 120, "prompt1_answer": "This function checks if an object is an instance of `holoviews.core.Dimensioned` and uses Holoviews' Bokeh renderer to create a plot state based on the object's context, returning either the plot state or the original object."}
+{"idx": 121, "prompt1_answer": "This function closes the object by setting `_closed` to `True`, cancels the active JavaScript task, and then cancels all tasks in the `_js_queue`."}
+{"idx": 122, "prompt1_answer": "This function sets the style for the object instance, either directly or by fetching it from a name, and then clears associated caches."}
+{"idx": 123, "prompt1_answer": "This function processes a list of lines, checking each for compliance with formatting rules and handling long lines and trailing whitespace according to configuration settings."}
+{"idx": 124, "prompt1_answer": "The function `XXXXX` initializes a dictionary with default `None` values for specified fields and then updates it with keyword arguments."}
+{"idx": 125, "prompt1_answer": "The function `XXXXX` collects and returns server metadata including the host name, process ID, command-line arguments (if available), and settings values for specific keys."}
+{"idx": 126, "prompt1_answer": "This function logs the process of setting main channels for each process template and updates related channel information."}
+{"idx": 127, "prompt1_answer": "This function sets up and runs an H2O gradient boosting model on the prostate dataset, then visualizes and evaluates the model structure and performance."}
+{"idx": 128, "prompt1_answer": "This function traverses an XML tree, processes image elements by skipping specified extensions, and converts images using provided sizes before escaping and storing targets in a dictionary."}
+{"idx": 129, "prompt1_answer": "This function adds an operation policy name attribute to `common_attributes` list if a name is provided."}
+{"idx": 130, "prompt1_answer": "This function begins an edit block, removes selected text, inserts HTML content, selects the inserted HTML, and then returns it as plain text after ending the edit block."}
+{"idx": 131, "prompt1_answer": "This function computes the inverse error function for the input tensor `x` and returns the result as a tensor with a specified scope `name`."}
+{"idx": 132, "prompt1_answer": "This function generates a sequence of `num` integers between `start` and `stop`, inclusive if `endpoint` is True, with logarithmic spacing if `log` is set to True."}
+{"idx": 133, "prompt1_answer": "This function constructs a dictionary containing selected attributes of an item, truncated or formatted as needed, based on the provided column names."}
+{"idx": 134, "prompt1_answer": "This function extracts and processes XML files from a given zip archive representing a Word document, initializing metadata structures and optionally parsing font sizes based on configuration."}
+{"idx": 135, "prompt1_answer": "This function retrieves the server name from a TLS/SSL handshake and returns it as a string, or `None` if no name was obtained."}
+{"idx": 136, "prompt1_answer": "This function sets up GTK as the GUI backend for interactive use, either by importing necessary modules directly or by setting an input hook if GTK is not already available."}
+{"idx": 137, "prompt1_answer": "This function populates a dictionary with variable names as keys and lists of their corresponding SymPy expressions from sources and/or destinations based on the input parameters."}
+{"idx": 138, "prompt1_answer": "This function sets seasonal schedules and handles CRC authentication and error messaging."}
+{"idx": 139, "prompt1_answer": "This function initializes an instance of a class using configuration parameters, deserializing initializers and populating other attributes accordingly."}
+{"idx": 140, "prompt1_answer": "This function calculates a dictionary mapping file names (full path or base name) to their line counts based on the provided `fullpath` flag."}
+{"idx": 141, "prompt1_answer": "This function updates validation statuses and logs WHOIS information based on domain and IP validation results, then returns specific values or `None` accordingly."}
+{"idx": 142, "prompt1_answer": "This function decorates a resource by handling authentication through an authorization token, logging the attempt, and attaching the authenticated user to the request context if successful."}
+{"idx": 143, "prompt1_answer": "This function generates a JSON response containing either a report for a specific worker or for all workers, or an error message if the worker ID is unknown."}
+{"idx": 144, "prompt1_answer": "This method checks if parameters have been explored in a given trajectory's model and builds the model if they haven't."}
+{"idx": 145, "prompt1_answer": "This function computes a symmetric matrix `nfps` where each element (l, u) represents the non-fatal path fraction between sizes[l] and sizes[u], using the `_compute_nfp_uniform` helper function."}
+{"idx": 146, "prompt1_answer": "This function reads a line from a stream and raises `StopIteration` if the buffer is empty, otherwise it returns the read line."}
+{"idx": 147, "prompt1_answer": "This function calculates the weighted average of values using corresponding numbers from the history dictionaries, updates the output dictionary, and sets the `ready` flag to True."}
+{"idx": 148, "prompt1_answer": "This function retrieves and returns the location of the specified table's storage descriptor in the given database."}
+{"idx": 149, "prompt1_answer": "This function compiles a status channel string based on the provided list of channels and operator, setting the context accordingly."}
+{"idx": 150, "prompt1_answer": "This function checks the validity of a `NistBeaconValue` record by comparing its signature and output value with its neighboring records."}
+{"idx": 151, "prompt1_answer": "This function removes dates from the input set based on specified time intervals (years, months, weeks, days) and a reference date `now`, returning the remaining dates."}
+{"idx": 152, "prompt1_answer": "This function creates an RTL signal based on given operator definition, operands, and result type, registers it with outputs, and evaluates it statically if all operands are constant."}
+{"idx": 153, "prompt1_answer": "This function wraps another function to add caching functionality based on URL hashes and configurable cache validity periods for different sports."}
+{"idx": 154, "prompt1_answer": "This function updates the position of the component by setting its center to the midpoint between `new` and the component's current bounding box dimensions."}
+{"idx": 155, "prompt1_answer": "The function `XXXXX` changes the active layer to the first one and then deletes all layers except the first one specified by `layer_num`."}
+{"idx": 156, "prompt1_answer": "This function sets the value of `fronts` to 0 at the indices where `segmentation_mask` values do not match those in `fronts` and are neither 0 nor matched values."}
+{"idx": 157, "prompt1_answer": "This function iterates through the provided updates, adding new keys and their corresponding nodes to the training updates list and registering them in a set to ensure uniqueness."}
+{"idx": 158, "prompt1_answer": "This function extracts context parameters into environment variable format or the default format based on the `in_env_var_format` flag."}
+{"idx": 159, "prompt1_answer": "The function `XXXXX` updates resource references and executes a callback conditionally based on refcount and force_expiry flags, then cleans up resources and removes the connection from the registry."}
+{"idx": 160, "prompt1_answer": "This function performs a GET request to fetch an operation by its request ID and subscription ID."}
+{"idx": 161, "prompt1_answer": "This function imports Python modules from a specified directory, skipping certain files and handling import errors gracefully."}
+{"idx": 162, "prompt1_answer": "This function redirects the response after changing an object, leveraging the superclass's `response_change` method."}
+{"idx": 163, "prompt1_answer": "This function searches for a name in the configuration and logs an error if no matches are found, otherwise it prints the status for each match."}
+{"idx": 164, "prompt1_answer": "The function `XXXXX` handles setting up and displaying the DeepPavlov settings path based on command-line arguments for default settings."}
+{"idx": 165, "prompt1_answer": "This function writes the template content to a file, raising an exception if the write operation fails."}
+{"idx": 166, "prompt1_answer": "This function retrieves and checks the disk free space in the specified artifacts base directory."}
+{"idx": 167, "prompt1_answer": "This function saves forensic reports to Splunk by posting JSON data via HTTP using a session object and handles potential exceptions and response validation."}
+{"idx": 168, "prompt1_answer": "This function retrieves and logs various authentication and client configuration details in a formatted manner."}
+{"idx": 169, "prompt1_answer": "This function creates a Kubernetes cluster with optional project ID, retry, and timeout parameters, logging details and handling existing cluster cases."}
+{"idx": 170, "prompt1_answer": "This function constructs and redirects to an authorization URL for OAuth, either by appending parameters to an existing URL or using OAuth2's `prepare_request_uri` method."}
+{"idx": 171, "prompt1_answer": "This function calculates and returns pitch and magnitude estimates from an audio signal using Fourier transform and local maximum detection."}
+{"idx": 172, "prompt1_answer": "This function attempts to send a hexadecimal-encoded message over a TCP socket to a specified host and port, and optionally reads and decodes the reply up to a maximum of 20 retries."}
+{"idx": 173, "prompt1_answer": "This function handles the signup process using an invitation UUID, checking for expiration and processing the form accordingly."}
+{"idx": 174, "prompt1_answer": "This function generates a list of unique block indices from given indices by dividing them into blocks of a specified size and sorting the resulting indices."}
+{"idx": 175, "prompt1_answer": "This function expands a tilde (~) in the given path to the user's home directory and returns the new path along with flags indicating if expansion occurred and the expanded tilde value."}
+{"idx": 176, "prompt1_answer": "The function `XXXXX` calculates and adjusts buffer sizes based on input parameters and logging details about the buffer configuration."}
+{"idx": 177, "prompt1_answer": "This function processes and prints text on a PDF page, splitting multi-line text and applying specified justification, while optionally adding newlines between sections."}
+{"idx": 178, "prompt1_answer": "This function initializes and starts a media player with the given plugin and stream, handling player startup errors gracefully."}
+{"idx": 179, "prompt1_answer": "This function closes file descriptors that are not in the `keep_fds` list, ensuring only specified and necessary file descriptors remain open."}
+{"idx": 180, "prompt1_answer": "This function `XXXXX` returns a `Vector` where each component is a boolean indicating whether the corresponding component of `self` is less than or greater than the component of `other`."}
+{"idx": 181, "prompt1_answer": "This function registers an additional `ProcessCollector` with the registry if `include_process_stats` is set to `True`."}
+{"idx": 182, "prompt1_answer": "This function generates a new ID by parsing document-specific details from the variant object and incorporating the family ID."}
+{"idx": 183, "prompt1_answer": "This function starts a thread to run `get_output` with specified stdin content and timeout, then handles the process return code based on whether the thread completes within the timeout or not."}
+{"idx": 184, "prompt1_answer": "This function temporarily modifies the command-line arguments to run a specified module with additional arguments and then restores the original arguments."}
+{"idx": 185, "prompt1_answer": "This function inspects an app object to collect its methods with RPC specifications into a dictionary."}
+{"idx": 186, "prompt1_answer": "This function appends a message with a severity level to the cached list of messages for a given user."}
+{"idx": 187, "prompt1_answer": "This function retrieves published slider items ordered by their position from the database using the provided request context."}
+{"idx": 188, "prompt1_answer": "This function removes items from the iterator using the `_nn_interface` and logs a warning if no items are found for removal."}
+{"idx": 189, "prompt1_answer": "This function stops multiple channels if they are still active."}
+{"idx": 190, "prompt1_answer": "This function reads data from `fp`, ensures it is in Unicode format for Python 2, and then passes it to `self.reads` for further processing."}
+{"idx": 191, "prompt1_answer": "This function creates a dynamic, named inner function that executes the provided magic command on the active frontend."}
+{"idx": 192, "prompt1_answer": "This function checks if `_position` is `None` and the node has children, then sets `_position` to the first child's position if it is a `ParseNode`."}
+{"idx": 193, "prompt1_answer": "This function handles the validation and saving of a user's password change form while updating the session authentication hash to maintain the user's login session after the password change."}
+{"idx": 194, "prompt1_answer": "This function retrieves an S3 object by key from a specified or parsed bucket name and returns the object resource."}
+{"idx": 195, "prompt1_answer": "This function reshapes the input `x` for a given `fn`, applies the function, and then reshapes the result to the desired output shape."}
+{"idx": 196, "prompt1_answer": "This function plots relative parallax errors versus distance for different spectral types, with labels indicating the color range for V magnitude between 14 and 16."}
+{"idx": 197, "prompt1_answer": "This function checks the state of a task instance and ensures consistency between the task runner's process and hostname, taking appropriate actions if they do not match."}
+{"idx": 198, "prompt1_answer": "This function establishes a connection to a DSMR (Dutch Standard Measurement Point for Rail) device and returns a connection object using the provided host, port, DSMR version, and telegram callback."}
+{"idx": 199, "prompt1_answer": "This function checks if all downstream tasks of the current task have succeeded on the specified execution date."}
